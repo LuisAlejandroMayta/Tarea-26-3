@@ -1,0 +1,14 @@
+.h1 {
+    color: rgb(169, 155, 185);
+}
+.container {
+    background-color: rgb(73, 187, 69);
+    width: 500px;
+    height: 200px;
+}
+.container-fluid {
+    /*background-color: rgb(238, 211, 211);
+    margin: 10px;
+    width: 600px;
+    height: 200px;*/
+}
